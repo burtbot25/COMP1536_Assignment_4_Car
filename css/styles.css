@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css?family=Barlow+Semi+Condensed');
+body {
+	text-align: center;
+	background-image: url("images/art.png");
+	background-size: cover;
+	background-attachment: fixed;
+	font-family: 'Barlow Semi Condensed', sans-serif;
+}
+h1 {
+	border: 3px solid gray;
+	color: black;
+	width: 70%;
+	margin: auto;
+	margin-top: 5%;
+	padding: 1.5%;
+}
+h3 {
+	color: grey;
+}
+#drawCar {
+	border: 5px solid black;
+}
+
+#drawSmoke {
+    position: relative;
+    left: 800px;
+    top: 100px;
+}
+#myRange {
+	margin-left: 75%;
+	margin-right: auto;
+}
+#input-value {
+	text-align: center;
+	width: 40%;
+}
+canvas {
+	margin-top: 5%;
+}
+footer {
+	background-color: #2A363B;
+	border: 2px solid white;
+	padding: 0.5%;
+	margin-top: 2%;
+	color: #FFF;
+	margin: 1%;
+	width: 100%;
+	font-size: 1.1em;
+}
