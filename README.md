@@ -10,5 +10,6 @@ In this assignment, I learned how to:
   - Apply solid and gradient colours to shapes
   - Create JavaScript function definitions
   - Target HTML elements using getElementById()
+  - Animate portions of the page using JavaScript
   - Use the set and clear interval and timeout functions
   - Use and obtain the output generated from the range input type to make internal calculations to control the animation
