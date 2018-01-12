@@ -4,4 +4,11 @@ The fourth assignment for BCIT's COMP 1536 (Introduction to Web Development).
 
 Students were required to draw a realistic car and animate smoke using JavaScript.
 
-In this assignment, I learned how to combine HTML's canvas element and JavaScript to dynamically draw graphics using lines, paths, rectangles, arcs, as well as apply solid and gradient colours to these shapes.  Furthermore, this project allowed me to learn and understand the use of JavaScript fucntion definitions, use the getElementById() function to target HTML elements, use the set and clear interval and timeout functions, and use and obtain the output generated from the range input type to make internal calculations to control the animation.
+In this assignment, I learned how to:
+  - Inject JavaScript into HTML pages
+  - Combine HTML's canvas element and JavaScript to dynamically draw graphics using lines, paths, rectangles, and arcs
+  - Apply solid and gradient colours to shapes
+  - Create JavaScript function definitions
+  - Target HTML elements using getElementById()
+  - Use the set and clear interval and timeout functions
+  - Use and obtain the output generated from the range input type to make internal calculations to control the animation
