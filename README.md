@@ -2,7 +2,7 @@
 
 The fourth assignment for BCIT's COMP 1536 (Introduction to Web Development).
 
-Students were required to draw a realistic car and animate smoke using JavaScript.
+Students were required to draw a realistic car and animate smoke using JavaScript. 
 
 In this assignment, I learned how to:
   - Inject JavaScript into HTML pages
